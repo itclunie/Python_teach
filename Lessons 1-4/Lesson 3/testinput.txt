@@ -1,0 +1,5 @@
+wrote new line1 
+wrote new line2 
+wrote new line3 
+appended line1 
+appended line2 

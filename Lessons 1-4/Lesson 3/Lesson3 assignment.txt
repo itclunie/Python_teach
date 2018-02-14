@@ -1,0 +1,6 @@
+With the file you made previously called 'lesson3csv.csv' do the following:
+
+1. Write an open 'read' statement (similar to the write statement in the lesson)
+2. using a for loop, print each line
+3. store each line in a new list
+4. create a blank .txt file and dump each line from the CSV into it
